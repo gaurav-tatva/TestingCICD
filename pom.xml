@@ -12,6 +12,7 @@
 	<artifactId>T_auction_mssql</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>T_auction_mssql</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
